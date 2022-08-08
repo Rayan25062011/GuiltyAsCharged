@@ -1,3 +1,6 @@
+# Regret?
+If you regret what you just did... You can go on HealAccount.py and it may Heal the account.
+
 # Important
 This for Educationl Purposes ONLY
 I'm not responsible for ANY of your actions, this is SUPER effective so take it seriously
